@@ -4,7 +4,7 @@
 #
 
 
-PILIHOS="https://ucbf54800b674e80326a7b0be80b.dl.dropboxusercontent.com/cd/0/get/CTFNIsnVlqwO_3PBcSLNqeZL3t4Gh5avC_x_ttUcwePCStETpDLjdgQu6oML2VjiVSwQVuuuD_jAMYwsEV41SGb2phvKTA51-6fsgk2sI5D2HN3dTu6vWnroxdabqPPBurE3AcvBpnsAz36thLBLJaMy5eRJ1jkJhlpE77nNmuwipw/file?_download_id=509922918892560374294526060685237791196088357453852750377278747&_notify_domain=www.dropbox.com&dl=1"
+PILIHOS="https://ucbf54800b674e80326a7b0be80b.dl.dropboxusercontent.com/cd/0/get/CTFNIsnVlqwO_3PBcSLNqeZL3t4Gh5avC_x_ttUcwePCStETpDLjdgQu6oML2VjiVSwQVuuuD_jAMYwsEV41SGb2phvKTA51-6fsgk2sI5D2HN3dTu6vWnroxdabqPPBurE3AcvBpnsAz36thLBLJaMy5eRJ1jkJhlpE77nNmuwipw/file?_download_id=509922918892560374294526060685237791196088357453852750377278747&_notify_domain=www.dropbox.com&dl=1" | gunzip | dd of=/dev/vda
 
 
 PASSADMIN="Tahubulat500an"
